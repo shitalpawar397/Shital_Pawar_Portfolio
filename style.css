@@ -101,10 +101,10 @@ html{
 	font-family: arial black;
 }
 .rsm:hover{
-	background-color: forestgreen;
-	color: wheat;
+	background-color: black;
+	color: orchid;
 	border: 3px solid wheat;
-	transform: scale(1.2);
+	transform: scale(0.8);
 }
 .about-section{
 	width: 100%;
